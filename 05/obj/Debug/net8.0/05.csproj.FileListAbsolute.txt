@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\review_exercises\05\bin\Debug\net8.0\05.exe
+C:\Users\54931473865\Desktop\review_exercises\05\bin\Debug\net8.0\05.deps.json
+C:\Users\54931473865\Desktop\review_exercises\05\bin\Debug\net8.0\05.runtimeconfig.json
+C:\Users\54931473865\Desktop\review_exercises\05\bin\Debug\net8.0\05.dll
+C:\Users\54931473865\Desktop\review_exercises\05\bin\Debug\net8.0\05.pdb
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.sourcelink.json
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.dll
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\refint\05.dll
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.pdb
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\05.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\review_exercises\05\obj\Debug\net8.0\ref\05.dll
